@@ -1,0 +1,3 @@
+# Add one OCI Security List OCID per line.
+# ocid1.securitylist.oc1.eu-frankfurt-1.example
+

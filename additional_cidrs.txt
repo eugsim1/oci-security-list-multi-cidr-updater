@@ -1,0 +1,5 @@
+# Additional allowed CIDRs. The detected current public IP /32 is inserted first.
+# Add your office, VPN, bastion, or administration network CIDRs below.
+192.0.2.0/24
+198.51.100.10/32
+

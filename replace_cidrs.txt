@@ -1,0 +1,4 @@
+# Existing CIDRs to replace. One CIDR per line.
+# Matching is semantic: for example 10.0.0.1/24 is normalized to 10.0.0.0/24.
+0.0.0.0/0
+
