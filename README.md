@@ -322,7 +322,9 @@ The program continues to later OCIDs when one Security List fails, then returns 
 
 ## Execution diagram
 
-The editable draw.io diagram is at [`docs/execution-flow.drawio`](docs/execution-flow.drawio). It uses the official Oracle OCI diagram color palette and an OCI Security List stencil sourced from Oracle's OCI Architecture Diagram Toolkit v24.2.
+[![OCI Security List Multi-CIDR Updater execution flow](docs/execution-flow.png)](docs/execution-flow.drawio)
+
+Click the diagram to open or download the editable [`docs/execution-flow.drawio`](docs/execution-flow.drawio) source. It uses the official Oracle OCI diagram color palette and an OCI Security List stencil sourced from Oracle's OCI Architecture Diagram Toolkit v24.2.
 
 Oracle publishes the toolkit in draw.io, PowerPoint, and Visio formats: [OCI Architecture Diagram Toolkits](https://docs.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm).
 
